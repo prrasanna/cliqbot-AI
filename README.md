@@ -2,6 +2,10 @@ CliqBot AI-Working Demo
 
 https://github.com/user-attachments/assets/0c23f2c3-e1d4-40fc-a0e6-72c432c8ba35
 
+
+Add your .env File (Your API key) 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
